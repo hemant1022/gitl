@@ -11,4 +11,5 @@ console.log(footer);
 const payment = "integrated the payment gateway";
 console.log(payment);
 
-//dont commit after rebasing (means dont commit after rebaseing and git commit add .)
+const upi = "upi added";
+console.log(upi);
